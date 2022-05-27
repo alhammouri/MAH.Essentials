@@ -88,33 +88,14 @@ namespace MAH.Essentials
             Console.WriteLine();
         }
 
-        public static void WriteErrorMessage(Exception ex)
-        {
-            WriteCleanLine("-------------------------------------");
-            Console.WriteLine($"Something went wrong!");
-            WriteCleanLine($"--> {ex.Message}");
-            Console.WriteLine($"--> {ex}");
-            WriteCleanLine("-------------------------------------");
-        }
-
         public static void WriteException(Exception ex)
         {
-            Console.WriteLine();
-            Console.WriteLine("===================================");
+            Console.WriteLine("----------------- ERROR -----------------");
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.Write("Exception: ");
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.Write(ex.Message);
-            Console.WriteLine();
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.Write("StackTrace: ");
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.Write(ex.StackTrace);
-            Console.ForegroundColor = ConsoleColor.Gray;
-            Console.WriteLine("");
-            Console.WriteLine("===================================");
-            Console.WriteLine();
+            Console.WriteLine($"Message: {ex.Message}");
+            Console.WriteLine($"Exception: {ex}");
             Console.ResetColor();
+            Console.WriteLine("-----------------------------------------");
         }
     }
 }
