@@ -1,0 +1,11 @@
+D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials.ConsoleTester\bin\Debug\MAH.Essentials.ConsoleTester.exe.config
+D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials.ConsoleTester\bin\Debug\MAH.Essentials.ConsoleTester.exe
+D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials.ConsoleTester\bin\Debug\MAH.Essentials.ConsoleTester.pdb
+D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials.ConsoleTester\bin\Debug\MAH.Essentials.dll
+D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials.ConsoleTester\bin\Debug\MAH.Essentials.pdb
+D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials.ConsoleTester\obj\Debug\MAH.Essentials.ConsoleTester.csproj.AssemblyReference.cache
+D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials.ConsoleTester\obj\Debug\MAH.Essentials.ConsoleTester.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials.ConsoleTester\obj\Debug\MAH.Essentials.ConsoleTester.csproj.CoreCompileInputs.cache
+D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials.ConsoleTester\obj\Debug\MAH.Essentials.ConsoleTester.csproj.CopyComplete
+D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials.ConsoleTester\obj\Debug\MAH.Essentials.ConsoleTester.exe
+D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials.ConsoleTester\obj\Debug\MAH.Essentials.ConsoleTester.pdb
