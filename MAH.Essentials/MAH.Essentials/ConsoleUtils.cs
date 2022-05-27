@@ -16,13 +16,13 @@ namespace MAH.Essentials
             return key;
         }
 
-        public static string GetInputFromUser(string message)
+        public static string GetUserInput(string message)
         {
             Console.Write(message + ": ");
             return Console.ReadLine();
         }
 
-        public static string GetUserPasswordInput(string message)
+        public static string GetPasswordInput(string message)
         {
             Console.Write($"{message}:");
 

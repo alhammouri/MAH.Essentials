@@ -8,7 +8,7 @@ namespace MAH.Essentials.ConsoleTester
         {
             ConsoleUtils.WriteLine("Starting the application");
 
-            var username = ConsoleUtils.GetInputFromUser("Enter a username");
+            var username = ConsoleUtils.GetUserInput("Enter a username");
 
             if (username.IsNullOrWhiteSpace())
             {
@@ -19,7 +19,7 @@ namespace MAH.Essentials.ConsoleTester
                 ConsoleUtils.WriteSuccessLine($"Top. You have entered '{username}' (y)");
             }
 
-            var password = ConsoleUtils.GetUserPasswordInput("Enter a password");
+            var password = ConsoleUtils.GetPasswordInput("Enter a password");
 
             if (password.IsNullOrWhiteSpace())
             {
