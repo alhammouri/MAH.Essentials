@@ -4,9 +4,21 @@ namespace MAH.Essentials
 {
     public static class ConsoleUtils
     {
+        public static void WriteLine(string message)
+        {
+            Console.WriteLine(message);
+        }
+
+        public static ConsoleKeyInfo ReadKey()
+        {
+            var key = Console.ReadKey();
+            Console.WriteLine();
+            return key;
+        }
+
         public static string GetInputFromUser(string message)
         {
-            Console.Write(message + ":");
+            Console.Write(message + ": ");
             return Console.ReadLine();
         }
 
@@ -41,7 +53,7 @@ namespace MAH.Essentials
         public static ConfirmationResult Confirm(string message)
         {
             Console.Write($"{message}? (y or n): ");
-            var answer = Console.ReadKey();
+            var answer = ReadKey();
 
             if (answer.Key == ConsoleKey.Y)
             {

@@ -4,3 +4,9 @@ D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials\obj\Debug\MAH.E
 D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials\obj\Debug\MAH.Essentials.csproj.CoreCompileInputs.cache
 D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials\obj\Debug\MAH.Essentials.dll
 D:\Visual Studio\GitHub\alhammouri\MAH.Essentials\MAH.Essentials\obj\Debug\MAH.Essentials.pdb
+D:\Visual Studio\Repos\alhammouri\MAH.Essentials\MAH.Essentials\bin\Debug\MAH.Essentials.dll
+D:\Visual Studio\Repos\alhammouri\MAH.Essentials\MAH.Essentials\bin\Debug\MAH.Essentials.pdb
+D:\Visual Studio\Repos\alhammouri\MAH.Essentials\MAH.Essentials\obj\Debug\MAH.Essentials.csproj.AssemblyReference.cache
+D:\Visual Studio\Repos\alhammouri\MAH.Essentials\MAH.Essentials\obj\Debug\MAH.Essentials.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repos\alhammouri\MAH.Essentials\MAH.Essentials\obj\Debug\MAH.Essentials.dll
+D:\Visual Studio\Repos\alhammouri\MAH.Essentials\MAH.Essentials\obj\Debug\MAH.Essentials.pdb
