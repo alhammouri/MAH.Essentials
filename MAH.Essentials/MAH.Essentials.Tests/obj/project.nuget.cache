@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H9mYRqC70XgqFCTaQM8E2C946tF3ztEQ7YbUGirs6BDhudZ9d0J01kDwvDm5dmkW086jYtclzetUUp9U4WUs+Q==",
+  "dgSpecHash": "R4TSDKt7SRpqUj6NwuHjfP7DY63YrTWGe5R51qBihmbE97sVrmrHpNdunNKLoQainZqun5jAWDhtdZSSgikV9A==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio\\GitHub\\alhammouri\\MAH.Essentials\\MAH.Essentials.Tests\\MAH.Essentials.Tests.csproj",
+  "projectFilePath": "D:\\Visual Studio\\Repos\\alhammouri\\MAH.Essentials\\MAH.Essentials.Tests\\MAH.Essentials.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alham\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\alham\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
